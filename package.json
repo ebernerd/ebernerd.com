@@ -1,5 +1,5 @@
 {
-	"name": "ebernerd.com",
+	"name": "ebernerd.github.io",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -15,7 +15,7 @@
 		"react-scripts": "3.4.3",
 		"typescript": "~3.7.2"
 	},
-	"homepage": "http://ebernerd.github.io/ebernerd.com",
+	"homepage": "http://ebernerd.github.io/",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
